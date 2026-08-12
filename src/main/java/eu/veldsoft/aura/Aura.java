@@ -181,7 +181,7 @@ public class Aura {
 	}
 
 	public void simulate() {
-		validate();
+		//validate();
 		if(model.valid == false) {
 			return;
 		}
